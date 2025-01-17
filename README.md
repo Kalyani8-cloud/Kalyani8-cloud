@@ -9,7 +9,16 @@ A passionate tech enthusiast eager to explore **AI**, **Web Development**, and *
 
 ### 🌱 **What I'm Currently Learning**  
 - Deep diving into **GitHub** and its ecosystem.  
-- Building cool projects with **JavaScript**, **HTML**, and **CSS**.  
+- Building cool projects with **JavaScript**, **HTML**, **CSS** , and **Python**.
+
+### 🚀 **Currently Working Project**
+- Mental Health Monitoring System using ML.
+
+### 🗂️ **Completed Projects**
+- Text Summarization Tool using NLP in **Python**.
+- Password Generator App using **HTML** , **CSS** , **JavaScript**.
+- Stuent Registration Form in **Java**.
+- Uncrossed Knights Tour in **C**.
 
 ### 🎨 **Hobbies**  
 - 🖌️ Creating art and expressing myself through **drawing**.  
