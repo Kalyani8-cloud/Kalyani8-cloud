@@ -12,7 +12,7 @@ A passionate tech enthusiast eager to explore **AI**, **Web Development**, and *
 - Building cool projects with **JavaScript**, **HTML**, **CSS** , and **Python**.
 
 ### 🚀 **Currently Working Project**
-- Mental Health Monitoring System using ML.
+- Mental Health Prediction System using ML.
 
 ### 🗂️ **Completed Projects**
 - Text Summarization Tool using NLP in **Python**.
