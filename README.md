@@ -46,9 +46,14 @@ A passionate tech enthusiast eager to explore **AI**, **Web Development**, and *
 ---
 
 ### 📫 **Get in Touch**  
-💼 [**LinkedIn**](https://www.linkedin.com/in/kalyani-gaikwad-4727a9265)  
-📧 **Email:** kalyanigaikwad183@gmail.com  
-👩‍💻 [**HackerRank**](https://www.hackerrank.com/profile/kalyanigaikwad13)
+<a href="https://www.linkedin.com/in/kalyani-gaikwad-4727a9265" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-kinnal-6841451a4" height="30" width="40" /></a> 
+
+<a href="https://www.hackerrank.com/profile/kalyanigaikwad13" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Profile" height="30" width="40" />
+</a>
+
+
+📧 **Email:** kalyanigaikwad183@gmail.com
 
 ---
 
